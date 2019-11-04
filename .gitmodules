@@ -1,0 +1,3 @@
+[submodule "kinowatch_sub"]
+	path = kinowatch_sub
+	url = git@github.com:soundsnick/kinowatch_sub.git
